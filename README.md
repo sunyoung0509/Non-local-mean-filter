@@ -6,3 +6,4 @@ NL-means filter: weighted average of all the voxel intensities in the image 𝑢
 
 ![image](https://user-images.githubusercontent.com/118721799/211856900-d98eb73a-8c40-406d-bac6-2d9a7fb112cc.png)
 
+reference) Coupé, Pierrick, et al. "An optimized blockwise nonlocal means denoising filter for 3-D magnetic resonance images." IEEE transactions on medical imaging 27.4 (2008): 425-441.
