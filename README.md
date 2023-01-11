@@ -22,3 +22,8 @@ reference) Coupé, Pierrick, et al. "An optimized blockwise nonlocal means denoi
 
 
       python NonLocalMeanFilter.py
+
+
+#Result
+
+![NLM_result_gray](https://user-images.githubusercontent.com/118721799/211880883-e6d02c48-7c96-4e0b-8585-b3186eb16db9.png)
